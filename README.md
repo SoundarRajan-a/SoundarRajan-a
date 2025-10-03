@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Soundarrajan A -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22C1C3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Soundarrajan+A.;Web+Developer;Crafting+Modern+Web+Experiences" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22C1C3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Soundarrajan+A;Web+Developer;Crafting+Modern+Web+Experiences." alt="Animated header" />
 </p>
 
 ---
