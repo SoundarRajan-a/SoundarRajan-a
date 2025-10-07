@@ -31,15 +31,6 @@ I'm **Soundarrajan A**, passionate about building visually stunning and interact
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoundarRajan-a&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SoundarRajan-a&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
